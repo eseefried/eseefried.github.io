@@ -363,7 +363,7 @@ plugins:
 #   name:                <firstname> <lastname>
 #   links:
 #     - https://twitter.com/<username>
-#     - https://github.com/eseefried
+     - https://github.com/eseefried
 
 
 # Plugin Configs
