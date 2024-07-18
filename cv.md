@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: about
 title: Ethan Seefried's CV
 image: 
   path: /Ethan_Seefried_CV.pdf
