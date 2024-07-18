@@ -9,9 +9,9 @@ Ethan:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
     I'm a Ph.D. student studying Computer Science, with a focus in Computer Vision. I'm highly interested in modern topics such as image diffusion, but also enjoy other fields such as virtual reality.
-    I'm deciding between academia 
+    I'm deciding between academia and industry currently, and I'm planning to graduate in Sping of 2026.
     
-    Open `_data/authors.yml` to edit this text.
+
 
   # This photo will be used in the about section
   picture:
