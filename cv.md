@@ -9,4 +9,4 @@ hide_description: true
 
 
 
-![800x400](//Ethan_Seefried_CV.pdf "CV")
+![800x400](/Ethan_Seefried_CV.pdf "CV")
