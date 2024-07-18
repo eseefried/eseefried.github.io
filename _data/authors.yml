@@ -69,7 +69,7 @@ Ethan:
 # Another author (optional)
 #
 
-    Open `_data/authors.yml` to edit this text.
+  Open `_data/authors.yml` to edit this text.
 
   picture:           https://placehold.it/128x128
   github:            eseefried
