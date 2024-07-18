@@ -1,5 +1,5 @@
 ---
-layout: pdf
+layout: post
 title: Curriculum Vitae
 image: /assets/Ethan_Seefried_CV.pdf
 description: >
