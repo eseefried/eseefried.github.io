@@ -2,5 +2,5 @@
 layout: post
 title: Curriculum Vitae
 ---
+<object data="/Ethan_Seefried_CV.pdf" type="application/pdf" width="1000" height="1000"></object>
 
-<object data="{{ site.url }}{{ site.baseurl }}/Ethan_Seefried_CV.pdf" width="1000" height="1000" type="application/pdf"></object>
