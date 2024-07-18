@@ -6,4 +6,4 @@ description: >
   My current CV is attached here.
 hide_description: true
 ---
-pdf {{ page.pdf_local }} no_link
+{% pdf {{ page.pdf_local }} no_link %}
