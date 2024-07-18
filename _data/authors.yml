@@ -8,9 +8,8 @@ Ethan:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    I'm a Ph.D. student studying Computer Science, with a focus in Computer Vision. I'm highly interested in modern topics such as image diffusion, but also enjoy other fields such as virtual reality.
+    I'm deciding between academia 
     
     Open `_data/authors.yml` to edit this text.
 
