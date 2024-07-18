@@ -1,16 +1,8 @@
 ---
-layout: post
-title: Introducing Hydejack 9
+layout: pdf
+title: Curriculum Vitae
+image: /assets/Ethan_Seefried_CV.pdf
 description: >
-  Version 9 is the most complete version of Hydejack yet.
-  Modernized design, big headlines, and big new features.
-sitemap: false
+  My current CV is attached here.
+hide_description: true
 ---
-
-
-image: 
-  path: /cv1.jpg
-image:
-  path: /cv2.jpg
-image: 
-  path: /cv3.jpg
