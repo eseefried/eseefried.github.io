@@ -32,7 +32,9 @@ gem "duktape"
 # Fixes `jekyll serve` in ruby 3
 gem "webrick"
 
+
 group :jekyll_plugins do
+  gem "jekyll-pdf-embed"
   gem "jekyll-default-layout"
   gem "jekyll-feed"
   gem "jekyll-optional-front-matter"
