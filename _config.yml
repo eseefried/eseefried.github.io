@@ -29,9 +29,9 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Graduate student in computer science.
+tagline:               Ph.D. in computer science.
 # A list of keywords for your blog
-keywords:              []
+keywords:              [Computer Vision, Machine Learning, Virtual Reality]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -48,9 +48,9 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
+  - title:             Curriculum Vitae
+    url:               /cv/
+  - title:             Projects
     url:               /docs/
   - title:             About
     url:               /about/
@@ -88,7 +88,7 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          spaceBackground.png
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
