@@ -27,11 +27,12 @@ Ethan:
   # Rearrange to change the order in which they appear
   social:
     #twitter:         <username>
-    github:          eseefried
+    github:            eseefried
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     google:            https://scholar.google.com/citations?user=z5yGpwgAAAAJ&hl=en
+    google-scholar:    https://scholar.google.com/citations?user=z5yGpwgAAAAJ&hl=en
     # vk:              <username>
     # youtube:         <string_string_string>
     # vimeo:           <username>
