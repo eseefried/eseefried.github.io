@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Curriculum Vitae
-pdf_file: /assets/Ethan_Seefried_CV.pdf
+pdf_local: /assets/Ethan_Seefried_CV.pdf
 description: >
   My current CV is attached here.
 hide_description: true
