@@ -31,7 +31,7 @@ Ethan:
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
-    google:          9
+    google:            https://scholar.google.com/citations?user=z5yGpwgAAAAJ&hl=en
     # vk:              <username>
     # youtube:         <string_string_string>
     # vimeo:           <username>
