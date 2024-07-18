@@ -8,4 +8,5 @@ description: >
 hide_description: true
 
 ---
-
+image: 
+  path: /Ethan_Seefried_CV.pdf
