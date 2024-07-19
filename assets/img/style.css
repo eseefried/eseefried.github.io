@@ -1,31 +1,33 @@
 .card-container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* creates three columns */
-  grid-gap: 20px; /* space between cards */
-  padding: 20px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin: 20px;
 }
 
 .card {
-  background-color: white;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-  transition: box-shadow 0.3s ease-in-out;
-  display: flex;
-  flex-direction: column;
-  align-items: center; /* centers the content horizontally */
-  justify-content: space-between; /* distributes the space vertically */
-}
-
-.card img {
-  width: 100%; /* make image take full width of the card */
-  height: 200px; /* fixed height for all images */
-  object-fit: cover; /* ensures the image covers the area without distorting aspect ratio */
+  background: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
 .card:hover {
-  box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
 }
 
-.container {
-  padding: 10px;
-  text-align: center; /* centers the text within the container */
+.card a {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  height: 100%;
+}
+
+.card-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-content {
+  padding: 15px;
 }
