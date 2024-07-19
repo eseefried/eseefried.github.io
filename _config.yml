@@ -49,8 +49,8 @@ author:
 menu:
   - title:             Curriculum Vitae
     url:               /cv/
-  - title:             Projects
-    url:               /docs/
+  - title:             Research
+    url:               /research/
   - title:             About
     url:               /about/
 
