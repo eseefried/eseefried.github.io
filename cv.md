@@ -2,4 +2,4 @@
 layout: post
 title: Curriculum Vitae
 ---
-<embed src="/Ethan_Seefried_CV.pdf" type="application/pdf" width="100%" height="1000" style="border:none;">
+<object data="/Ethan_Seefried_CV.pdf" type="application/pdf" width="1000" height="1000"></object>
