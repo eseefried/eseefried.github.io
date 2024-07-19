@@ -2,8 +2,7 @@
 layout: about
 image: /me.jpg
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  About me and my interests!
 hide_description: true
 redirect_from:
   - /download/
@@ -12,3 +11,4 @@ redirect_from:
 # About
 <!--author-->
 
+testststststst
