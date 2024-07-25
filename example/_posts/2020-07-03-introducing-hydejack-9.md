@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Hydejack 9
+title: CVPR 2024 Seattle
 image: 
   path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >
