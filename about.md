@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /me.jpg
+image: /me.JPG
 description: >
   About me and my interests!
 hide_description: true
