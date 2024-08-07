@@ -25,7 +25,7 @@ title: Research
   }
   .card img {
     width: 100%; /* Makes the image cover the width of the card */
-    height: 60%; /* Adjusts the height automatically */
+    height: 50%; /* Adjusts the height automatically */
   }
   .container {
     padding: 15px;
