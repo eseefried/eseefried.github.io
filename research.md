@@ -30,12 +30,12 @@ title: Research
 </style>
 
 <div class="card-container">
-  {% for project in site.projects %}
-    <div class="card" onclick="location.href='{{ project.url }}';" style="cursor: pointer;">
-      <img src="{{ project.image }}" alt="{{ project.title }}">
+  {% for research in site.research %}
+    <div class="card" onclick="location.href='{{ research.url }}';" style="cursor: pointer;">
+      <img src="{{ research.image }}" alt="{{ research.title }}">
       <div class="container">
-        <h4><b>{{ project.title }}</b></h4>
-        <p>{{ project.description | truncatewords: 20 }}</p>
+        <h4><b>{{ research.title }}</b></h4>
+        <p>{{ research.description | truncatewords: 20 }}</p>
       </div>
     </div>
   {% endfor %}
