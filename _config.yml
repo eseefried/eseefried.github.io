@@ -290,7 +290,7 @@ collections:
     permalink:         /tag-:name/
     output:            true
 
-  projects:
+  research:
     permalink:         /research/:path/
     output:            true
 
