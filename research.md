@@ -11,8 +11,6 @@ title: Research
     margin: 20px;
   }
   .card {
-    display: flex;
-    flex-direction: column;
     justify-content: space-between; /* Ensures the footer stays at the bottom */
     background: #f9f9f9;
     border: 1px solid #ddd;
@@ -30,7 +28,6 @@ title: Research
   .container {
     padding: 15px;
     text-align: center;
-    flex-grow: 1; /* Allows the container to fill the available space */
   }
 </style>
 
