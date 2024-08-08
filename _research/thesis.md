@@ -2,6 +2,6 @@
 layout: default
 title: "Thesis"
 image: "/pandalogo.png"
-description: "A brief description of the project."
+description: "Utilizing MAMBA blocks and Fourier transforms to predict smoke opacity."
 ---
-Hello
+
