@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Thesis"
-image: "/pandalogo.png"
+image: "/assets/img/TeaserPic.png"
 description: "Utilizing MAMBA blocks and Fourier transforms to predict smoke opacity."
 ---
 
