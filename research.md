@@ -6,28 +6,43 @@ title: Research
 <style>
   .card-container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* Creates a three-column grid */
-    gap: 20px; /* Adds space between the cards */
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Responsive columns */
+    gap: 20px;
     margin: 20px;
   }
   .card {
-    justify-content: space-between; /* Ensures the footer stays at the bottom */
+    display: flex;
+    flex-direction: column;
     background: #f9f9f9;
     border: 1px solid #ddd;
     box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
     transition: box-shadow 0.3s ease-in-out;
-    height: 70%; /* Makes all cards the same height */
+    min-height: 300px; /* Ensures all cards are at least 300px tall */
   }
   .card:hover {
     box-shadow: 5px 5px 15px rgba(0,0,0,0.2);
   }
   .card img {
-    width: 100%; /* Makes the image cover the width of the card */
-    height: 60%; /* Adjusts the height automatically */
+    width: 100%;
+    height: 150px; /* Fixed height for all images */
+    object-fit: cover;
   }
   .container {
     padding: 15px;
     text-align: center;
+    flex-grow: 1; /* Ensures content container fills available space */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  @media (max-width: 600px) {
+    .card-container {
+      grid-template-columns: 1fr; /* One column on small screens */
+    }
+    .card img {
+      height: 100px; /* Smaller images on small screens */
+    }
   }
 </style>
 
