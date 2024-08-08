@@ -24,7 +24,7 @@ title: Research
   }
   .card img {
     width: 100%;
-    height: 150px; /* Fixed height for all images */
+    height: 60%; /* Fixed height for all images */
     object-fit: cover;
   }
   .container {
