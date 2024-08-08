@@ -2,6 +2,6 @@
 layout: default
 title: "Wildfire Prevention"
 image: "/darkerspace.png"
-description: "A brief description of the project."
+description: "U-Net architecture to efficiently and accuratlety predict wildfire spread."
 ---
 meow
