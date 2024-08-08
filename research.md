@@ -16,14 +16,14 @@ title: Research
     border: 1px solid #ddd;
     box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
     transition: box-shadow 0.3s ease-in-out;
-    height: 100%; /* Makes all cards the same height */
+    height: 70%; /* Makes all cards the same height */
   }
   .card:hover {
     box-shadow: 5px 5px 15px rgba(0,0,0,0.2);
   }
   .card img {
     width: 100%; /* Makes the image cover the width of the card */
-    height: 50%; /* Adjusts the height automatically */
+    height: 60%; /* Adjusts the height automatically */
   }
   .container {
     padding: 15px;
