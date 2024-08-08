@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Wildfire Prevention"
-image: "/darkerspace.png"
+image: "/pandalogo.png"
 description: "U-Net architecture to efficiently and accuratlety predict wildfire spread."
 ---
 meow
