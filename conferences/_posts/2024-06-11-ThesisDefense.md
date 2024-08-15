@@ -4,6 +4,8 @@ title: My Thesis Defense
 description: >
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 sitemap: false
+img:
+  path: /assets/img/thesis/thesis-photo.jpg
 hide_last_modified: true
 excerpt_separator: <!--more-->
 ---
