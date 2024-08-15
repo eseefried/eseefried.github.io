@@ -8,7 +8,7 @@ amazon:
   icon: icon-amazon
 google:
   name: Google
-  icon: /assets/img/google-scholar-icon.png
+  icon: assets/img/google-scholar-icon.png
 google-scholar:
   name: Google Scholar
   icon: icon-google-scholar
