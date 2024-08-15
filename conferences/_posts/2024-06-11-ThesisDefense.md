@@ -2,7 +2,7 @@
 layout: post
 title: My Thesis Defense
 description: >
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  I defended my masters thesis June 11th, 2024. Onto the Ph.D.!
 sitemap: false
 img:
   path: /assets/img/thesis/thesis-photo.jpg
