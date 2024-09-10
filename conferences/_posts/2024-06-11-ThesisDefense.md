@@ -11,3 +11,5 @@ excerpt_separator: <!--more-->
 ---
 
 <!--more-->
+## SMOKE+
+My thesis was the culmination of my initial works for prediciting the opacity of smoke using Computer Vision. My thesis covered two seperate papers, my real world dataset and experimentation, as well as my forey into synthetic data generation. Although not entirely successful, I was one of the first researchers in the world to explore the MAMBA architecture for video understanding. These works are ongoing, and I hope to have a new publication of the SMOKE dataset in the near future!
