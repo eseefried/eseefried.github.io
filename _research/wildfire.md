@@ -4,7 +4,7 @@ title: "Wildfire Prevention"
 image: "/assets/img/cards/32x32-target-heatmaps.png"
 description: "U-Net architecture to efficiently and accuratlety predict wildfire spread."
 ---
-
+# Wildfire Prevention
 This research began as a class project and was published at ICMI 2023. Utilizing satellite imagery, we predict the spread of wildfires over the course of a single day. A PDF of the paper can be found at the following link: <a href="https://dl.acm.org/doi/abs/10.1145/3577190.3614116">ICMI 2023 Paper</a>.
 
 ## Abstract
