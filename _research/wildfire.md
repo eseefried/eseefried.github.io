@@ -9,3 +9,5 @@ This research began as a class project and was published at ICMI 2023. Utilizing
 
 ## Abstract
 Predicting where wildfires will spread provides invaluable information to firefighters and scientists, which can save lives and homes. However, doing so requires a large amount of multimodal data e.g., accurate weather predictions, real-time satellite data, and environmental descriptors.  In this work, we utilize 12 distinct features from multiple modalities in order to predict where wildfires will spread over the next 24 hours. We created a custom U-Net architecture designed to train as efficiently as possible, while still maximizing accuracy, to facilitate quickly deploying the model when a wildfire is detected. Our custom architecture demonstrates state-of-the-art performance and trains an order of magnitude more quickly than prior work, while using fewer computational resources. We further evaluated our architecture with an ablation study to identify which features were key for prediction and which provided negligible impact on performance. 
+
+## Model
