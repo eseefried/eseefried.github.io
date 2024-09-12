@@ -4,6 +4,7 @@ title: "Percieving Colors"
 image: "/assets/img/cards/TrainingParticipantView.png"
 description: "Teaching people to understand colors as a sound in Virtual Reality."
 ---
+## Overview
 My second non-machine learning project, again expanding on a class project. Utilizing virtual reality (VR), I explored teaching people how to percieve colors as a sound, using colors that correspond to the visible color spectrum. This work is currently under review at IEEE VR, and this page will be expanded upon acceptance!
 
 ## Abstract
