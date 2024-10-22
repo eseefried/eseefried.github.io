@@ -16,7 +16,7 @@ Virtual reality (VR) is a developing technology with the potential to enhance pe
 To initiate training, participants were placed in a long hallway adorned with the visible light spectrum on both the floor and the walls. As they walked down the hallway, they encountered tones corresponding to each color segment, beginning with red and ending with purple. Each tone persisted as long as the participant remained on the associated color, allowing for extended immersion if desired. This setup facilitated a visual and auditory understanding of the color spectrum, enabling participants to learn the correlation between specific colors and their respective tones, particularly for similar-sounding colors such as green and cyan. Participants were allowed to revisit the hallway multiple times to become familiar with the tones and colors. 
 
 <video width="640" height="480" controls>
-  <source src="/assets/img/colors/task3.mp4" type="video/mp4">
+  <source src="/assets/img/colors/Task3.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
