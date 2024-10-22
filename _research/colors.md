@@ -28,7 +28,9 @@ The second and final evaluative task of our experiment adapted the Stroop test t
 
 ## Results 
 <img src="/assets/img/colors/task1times.png" alt="Colors Times"/>
+
 Violin plot illustrating the time participants spent at each table during the ordering task. Although participants completed the tasks quickly, many chose to spend additional time at the tables to reinforce their understanding of the visual light spectrum through auditory cues alone. This additional time indicates a deeper engagement with the learning objectives, as participants sought to ensure accurate representation of the color spectrum without visual assistance.
 
 <img src="/assets/img/colors/task23scoresBigger.png" alt="Task 2 and 3 Scores"/>
+
 Box plots display outcomes from the selection task (Task 2) and Stroop Test (Task 3), where participants were allowed one initial guess per duck, and a subsequent second guess. These plots show variation in accuracy for Task 2, with an average achievement of 78.12\%, and some participants only identifying one correct duck out of four. This indicates diverse levels of proficiency in linking auditory signals with colors. In Task 3, the challenge was heightened by the presence of conflicting visual and auditory stimuli. Nevertheless, the data shows a praiseworthy capacity to integrate these conflicting cues, with an overall trend towards moderate success. The results underscore the ability of participants to adjust their perceptual approaches in response to intricate sensory settings.
