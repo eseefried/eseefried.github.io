@@ -45,6 +45,8 @@ Task two marked the first evaluative task of the experiment, where the participa
 ## Task 3 (Stroop)
 The second and final evaluative task of our experiment adapted the Stroop test to explore the interplay between visual and auditory perception of colors. In this variant, participants were presented with a single table displaying seven colorless ducks. Traditionally, a Stroop test challenges participants to name the color of the text, which contrasts with the word itself (e.g., the word 'red' printed in blue ink). In our auditory-visual version, participants began by selecting a duck from the left side of the table and moving rightward. Each selected duck visually changed color and simultaneously emitted a tone corresponding to a potentially different color. Participants were required to correctly identify the duck’s color based on auditory cue alone, without relying on visual cues or comparisons with other ducks, for the initial attempt. They were allowed one initial attempt per duck, with the option of a second attempt, if needed. We also recorded participants’ total duration on this task to assess both their reaction times and accuracy under conditions of conflicting visual and auditory stimuli. 
 
+<p>
+</p>
 <video width="640" height="480" controls>
   <source src="/assets/img/colors/Task3.mp4" type="video/mp4">
   Your browser does not support the video tag.
