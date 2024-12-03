@@ -11,6 +11,12 @@ Accuracy in Computer Vision." Synthetic Data for Computer Vision Workshop@ CVPR 
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-61953-3_23">Seefried, Ethan, et al. "Learning Foreign Language Vocabulary Through Task-Based Virtual Reality Immersion." International Conference on Human-Computer Interaction. Cham: Springer Nature Switzerland, 2024.</a>
 
+<a href="https://easychair.org/publications/preprint/zr7J/open">Bradford, M., Seefried, E., Krishnaswamy, N., & Blanchard, N. (2024). Thematic Analysis of Foreign Language Learning in a Virtual Environment.</a>
+
+# Arxiv 
+<a href="https://arxiv.org/pdf/2410.08458">Nath, A., Jung, C., Seefried, E., & Krishnaswamy, N. (2024). Simultaneous Reward Distillation and Preference Learning: Get You a Language Model Who Can Do Both. arXiv preprint arXiv:2410.08458.</a>
+
+
 # Thesis 
 
 <a href="https://api.mountainscholar.org/server/api/core/bitstreams/7af1bb7d-d03d-494e-9d58-1e27005d1a0d/content">E Seefried - 2024, Smoke+: A Video Dataset for Automated Fine-Grained Assessment of Smoke Opacity</a>
